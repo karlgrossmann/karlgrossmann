@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hey there, I'm [Karl!](https://github.com/karlgrossmann) 👋.
 
-<!--
-**karlgrossmann/karlgrossmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://linkedin.com/in/karlgrossmann">
+  <img align="left" alt="Karl's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/karlgrossmann">
+  <img align="left" alt="Karl's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I'm a graduate computer science student based in Innsbruck, Austria.
+
+- 🎓 I'm currently studying computer science full-time at **University of Innsbruck**
+- 🌱 Learning more about: **Reinforcement Learning, Signal Processing, Functional Programming**
+- 🔨 My daily tools: **Visual Studio Code, Terminal, Notion, Slack, Discord, Spotify**
+- ⚙️ I use often: `.py`, `.cpp`, `.java`, `.hs`,  `.html`, `.css`, `.json`
+
+<br/>
+
+#### Not quite active in public repos yet ... 📊
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karlgrossmann&show_icons=true&theme=transparent)
