@@ -13,9 +13,9 @@
 #### I'm a graduate computer science student based in Innsbruck, Austria.
 
 - 🎓 I'm currently studying computer science full-time at **University of Innsbruck**
-- 🌱 Learning more about: **Reinforcement Learning, Signal Processing, Functional Programming**
+- 🌱 Learning more about: **Reinforcement Learning, Signal Processing, Robotics**
 - 🔨 My daily tools: **Visual Studio Code, Terminal, Notion, Slack, Discord, Spotify**
-- ⚙️ I use often: `.py`, `.cpp`, `.java`, `.hs`,  `.html`, `.css`, `.json`
+- ⚙️ I use often: `.py`, `.cpp`, `.java`, `.html`, `.css`, `.json`
 
 <br/>
 
