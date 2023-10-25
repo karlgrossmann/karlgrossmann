@@ -15,7 +15,7 @@
 - 🎓 I'm currently studying computer science full-time at **University of Innsbruck**
 - 🌱 Learning more about: **Reinforcement Learning, Signal Processing, Robotics**
 - 🔨 My daily tools: **Visual Studio Code, Terminal, Notion, Slack, Discord, Spotify**
-- ⚙️ I use often: `.py`, `.cpp`, `.java`, `.html`, `.css`, `.json`
+- ⚙️ I use often: `.py`, `.cpp`, `.html`, `.css`, `.json`, `.jsx`.
 
 <br/>
 
